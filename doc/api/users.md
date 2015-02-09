@@ -58,6 +58,7 @@ GET /users
     "is_admin": false,
     "avatar_url": "http://localhost:3000/uploads/user/avatar/1/cd8.jpeg",
     "can_create_group": true
+    "current_sign_in_at" : "2014-03-19T13:12:15Z"
   },
   {
     "id": 2,
@@ -80,6 +81,7 @@ GET /users
     "can_create_group": true,
     "can_create_project": true,
     "projects_limit": 100
+    "current_sign_in_at" : "2014-03-19T17:54:13Z"
   }
 ]
 ```
